@@ -1,0 +1,10 @@
+﻿  TP2.cpp
+C:\Users\User\source\repos\ConsoleApplication1\TP2\TP2.cpp(134,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\TP2\TP2.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ConsoleApplication1\TP2\TP2.cpp(145,16): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating code
+  19 of 172 functions (11.0%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TP2.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\Release\TP2.exe

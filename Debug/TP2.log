@@ -1,0 +1,9 @@
+﻿  elementfacturable.cpp
+  facturablefraisfixe.cpp
+  facturableparunite.cpp
+  TP2.cpp
+C:\Users\QCbelzebuth25\source\repos\TP2\TP2.cpp(134,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\QCbelzebuth25\source\repos\TP2\TP2.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\QCbelzebuth25\source\repos\TP2\TP2.cpp(145,16): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  TP2.vcxproj -> C:\Users\QCbelzebuth25\source\repos\TP2\Debug\TP2.exe
